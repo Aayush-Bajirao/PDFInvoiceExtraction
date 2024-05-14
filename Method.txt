@@ -1,0 +1,30 @@
+Packages
+	Intellegent.OCR.Activities
+	OmniPage.Activities
+	Document.Understanding.ML.Activities
+
+Invoices
+path recognition
+taxonomy ( Arrangement  Structure )
+	Format or organisation, document type and category
+	get data you want by clicking on add field
+	Outline or Json file is created
+	Data into variable
+Digitize document
+	Doc into text Format ( notepad Format )
+	Path
+	DOM( Document object Model ) Captures all the data 
+classify document scope 
+	give what type of file is passed into it
+	key word based classifier (if these keyswords occour then it is a invoice)
+Data extraction scope
+	doc path, and all
+	Classification result has to be singular 
+	requires extractors (form extractor)
+	Extrators 
+		uses api form admin UIPATH online (document understanding API)
+		force apply when configureing image
+Validation of data  (validation station)
+	human validation
+	
+	

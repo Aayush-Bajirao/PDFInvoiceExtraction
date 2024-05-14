@@ -1,0 +1,38 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "startCell&Sequence_1",
+        "outputSheet&Sequence_1",
+        "outputPath&Sequence_1",
+        "dtresult&Sequence_2",
+        "exportOP&Sequence_4",
+        "validationOP&Sequence_4",
+        "validationResults&Sequence_4",
+        "dataExtractionOP&Sequence_4",
+        "classificationOP&Sequence_4",
+        "documentObjectModel&Sequence_4",
+        "documentTextOP&Sequence_4",
+        "filePath&Sequence_4",
+        "taxonomyOP&Sequence_1",
+        "filePaths&Sequence_1",
+        "exists&Sequence_1",
+        "folderPath&Sequence_1",
+        "fileNotFoundMsg&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
